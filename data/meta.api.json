@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-23T08:55:33.762592+00:00",
+  "source": "Funding & Tenders Portal APIs",
+  "programmes_cached": 77,
+  "seed_pics": 0,
+  "existing_pics": 0,
+  "hydrated_pics": 0,
+  "companies_count": 0,
+  "projects_count": 0,
+  "programme_filter": [],
+  "failures": [],
+  "notes": [
+    "This dataset is built from PIC-based organisation endpoints.",
+    "Project consortiums are reconstructed by aggregating per-organisation publicProjects responses.",
+    "Coverage depends on the completeness of data/pic_seeds.json and any PICs already present in data/companies.json."
+  ],
+  "api_endpoints": {
+    "programmes": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/data/sedia-programmes.json?lang=en",
+    "organisation_profile": "https://ec.europa.eu/info/funding-tenders/opportunities/api/orgProfile/data.json?pic={pic}",
+    "organisation_projects": "https://ec.europa.eu/info/funding-tenders/opportunities/api/orgProfile/publicProjects.json?pic={pic}"
+  }
+}

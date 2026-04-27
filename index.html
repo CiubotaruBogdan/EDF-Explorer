@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EDF Explorer — European Defence Fund Results</title>
+    <meta name="description" content="Open public dataset of European Defence Fund (EDF), EDIDP and PADR project results â€” explore projects, consortia, budgets and statistics from 2017 to today. Independent visualisation of public European Commission data." />
+    <meta name="theme-color" content="#fafafa" />
+    <link rel="icon" type="image/svg+xml" href="/edf-explorer/favicon.svg" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="EDF Explorer — European Defence Fund Results" />
+    <meta property="og:description" content="Browse, search and analyse the full set of EDF, EDIDP and PADR grant agreements published by the European Commission since 2017." />
+    <meta property="og:type" content="website" />
+
+    <!-- Hardening: minimal CSP for a fully static SPA -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'" />
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+
+    <style>html { font-size: 110%; }</style>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+    <script type="module" crossorigin src="/edf-explorer/assets/index-C6RYfUPK.js"></script>
+    <link rel="modulepreload" crossorigin href="/edf-explorer/assets/react-DERMv9fi.js">
+    <link rel="modulepreload" crossorigin href="/edf-explorer/assets/echarts-BReDI_XE.js">
+    <link rel="stylesheet" crossorigin href="/edf-explorer/assets/index-Dun2hZWC.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript style="display:block;padding:2rem;font-family:Georgia,serif;color:#0c1a36;">
+      EDF Explorer needs JavaScript to render the project browser. Please enable
+      JavaScript or download the raw <a href="./data/projects.json">projects.json</a>
+      and <a href="./data/companies.json">companies.json</a>.
+    </noscript>
+    <script src="/edf-explorer/feedback.js"></script>
+  </body>
+</html>

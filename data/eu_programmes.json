@@ -1,0 +1,673 @@
+[
+  {
+    "id": "31061266",
+    "abbreviation": "3HP",
+    "type": null,
+    "program": null,
+    "description": "3rd Health Programme (3HP)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "31077795",
+    "abbreviation": "AMIF",
+    "type": null,
+    "program": null,
+    "description": "Asylum, Migration and Integration Fund (AMIF)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43251447",
+    "abbreviation": "AMIF2027",
+    "type": null,
+    "program": null,
+    "description": "Asylum, Migration and Integration Fund (AMIF)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43251530",
+    "abbreviation": "BMVI",
+    "type": null,
+    "program": null,
+    "description": "Border Management and Visa Policy Instrument (BMVI)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43251534",
+    "abbreviation": "CCEI",
+    "type": null,
+    "program": null,
+    "description": "Customs Control Equipment Instrument (CCEI)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43251567",
+    "abbreviation": "CEF2027",
+    "type": null,
+    "program": null,
+    "description": "Connecting Europe Facility (CEF)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31065524",
+    "abbreviation": "CEF",
+    "type": null,
+    "program": null,
+    "description": "CEF (CEF)",
+    "period": "2014-2020",
+    "home": false,
+    "externalProgramPageLink": "https://commission.europa.eu/strategy-and-policy/eu-budget/long-term-eu-budget/2014-2020/eu-funding-programmes/heading-1a-competitiveness-growth-and-jobs_en#connecting-europe-facility-cef"
+  },
+  {
+    "id": "111109",
+    "abbreviation": "1HP",
+    "type": null,
+    "program": null,
+    "description": "1st Health Programme (1HP)",
+    "period": "2003-2007",
+    "home": false
+  },
+  {
+    "id": "111110",
+    "abbreviation": "2HP",
+    "type": null,
+    "program": null,
+    "description": "2nd Health Programme (2HP)",
+    "period": "2007-2013",
+    "home": false
+  },
+  {
+    "id": "43251589",
+    "abbreviation": "CERV",
+    "type": null,
+    "program": null,
+    "description": "Citizens, Equality, Rights and Values Programme (CERV)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31061273",
+    "abbreviation": "CP",
+    "type": null,
+    "program": null,
+    "description": "Consumer Programme (CP)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "31059083",
+    "abbreviation": "CREA",
+    "type": null,
+    "program": null,
+    "description": "Creative Europe (CREA)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43251814",
+    "abbreviation": "CREA2027",
+    "type": null,
+    "program": null,
+    "description": "Creative Europe Programme (CREA)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43253979",
+    "abbreviation": "CUST",
+    "type": null,
+    "program": null,
+    "description": "Customs Programme (CUST)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43152860",
+    "abbreviation": "DIGITAL",
+    "type": null,
+    "program": null,
+    "description": "Digital Europe Programme (DIGITAL)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "42810547",
+    "abbreviation": "ED",
+    "type": null,
+    "program": null,
+    "description": "Europe Direct (ED)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "44181033",
+    "abbreviation": "EDF",
+    "type": null,
+    "program": null,
+    "description": "European Defence Fund (EDF)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31109727",
+    "abbreviation": "EDIDP",
+    "type": null,
+    "program": null,
+    "description": "European Defence Industrial Development Programme (EDIDP)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43697167",
+    "abbreviation": "EP",
+    "type": null,
+    "program": null,
+    "description": "European Parliament (EP)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31059098",
+    "abbreviation": "EUAID",
+    "type": null,
+    "program": null,
+    "description": "EU Aid Volunteers Programme (EUAID)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43251842",
+    "abbreviation": "EUAF",
+    "type": null,
+    "program": null,
+    "description": "Union Anti-fraud Programme (EUAF)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "42992790",
+    "abbreviation": "ESC",
+    "type": null,
+    "program": null,
+    "description": "European Solidarity Corps (ESC)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43254037",
+    "abbreviation": "ESC2027",
+    "type": null,
+    "program": null,
+    "description": "European Solidarity Corps (ESC)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31059093",
+    "abbreviation": "EPLUS",
+    "type": null,
+    "program": null,
+    "description": "Erasmus+ Programme (EPLUS)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43353764",
+    "abbreviation": "ERASMUS2027",
+    "type": null,
+    "program": null,
+    "description": "Erasmus+ (ERASMUS+)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43332642",
+    "abbreviation": "EU4H",
+    "type": null,
+    "program": null,
+    "description": "EU4Health Programme (EU4H)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31059088",
+    "abbreviation": "EFC",
+    "type": null,
+    "program": null,
+    "description": "Europe For Citizens (EFC)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43254019",
+    "abbreviation": "ESF",
+    "type": null,
+    "program": null,
+    "description": "European Social Fund + (ESF)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43392145",
+    "abbreviation": "EMFAF",
+    "type": null,
+    "program": null,
+    "description": "European Maritime, Fisheries and Aquaculture Fund (EMFAF)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31098847",
+    "abbreviation": "EMFF",
+    "type": null,
+    "program": null,
+    "description": "European Maritime and Fisheries Fund (EMFF)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "31088049",
+    "abbreviation": "ESTAT",
+    "type": null,
+    "program": null,
+    "description": "European Statistics (ESTAT)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43298916",
+    "abbreviation": "EURATOM2027",
+    "type": null,
+    "program": null,
+    "description": "Euratom Research and Training Programme (EURATOM)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43253995",
+    "abbreviation": "FISC",
+    "type": null,
+    "program": null,
+    "description": "Fiscalis Programme (FISC)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43089234",
+    "abbreviation": "INNOVFUND",
+    "type": null,
+    "program": null,
+    "description": "Innovation Fund (INNOVFUND)",
+    "period": "2014-2020",
+    "home": true
+  },
+  {
+    "id": "43089234",
+    "abbreviation": "INNOVFUND",
+    "type": null,
+    "program": null,
+    "description": "Innovation Fund (INNOVFUND)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43252368",
+    "abbreviation": "ISF",
+    "type": null,
+    "program": null,
+    "description": "Internal Security Fund (ISF)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43108390",
+    "abbreviation": "HORIZON",
+    "type": null,
+    "program": null,
+    "description": "Horizon Europe (HORIZON)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43252476",
+    "abbreviation": "SMP",
+    "type": null,
+    "program": null,
+    "description": "Single Market Programme (SMP)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "43252517",
+    "abbreviation": "SOCPL",
+    "type": null,
+    "program": null,
+    "description": "Social Prerogative and Specific Competencies Lines (SOCPL)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "111111",
+    "abbreviation": "RELEX",
+    "type": null,
+    "program": null,
+    "description": "EU External Action - Prospect (RELEX-PROSPECT)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "111111",
+    "abbreviation": "RELEX",
+    "type": null,
+    "program": null,
+    "description": "EU External Action - Prospect (RELEX-PROSPECT)",
+    "period": "2021-2027"
+  },
+  {
+    "id": "47376280",
+    "abbreviation": "RELEX2027",
+    "type": null,
+    "program": null,
+    "description": "EU External Action - eGrants (RELEX2027)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31084392",
+    "abbreviation": "HERC",
+    "type": null,
+    "program": null,
+    "description": "Hercule III (HERC)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "31045243",
+    "abbreviation": "H2020",
+    "type": null,
+    "program": null,
+    "description": "Horizon 2020 Framework Programme (H2020)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "42198993",
+    "abbreviation": "IMCAP",
+    "type": null,
+    "program": null,
+    "description": "Support for information measures relating to the common agricultural policy (IMCAP)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43251882",
+    "abbreviation": "IMCAP2027",
+    "type": null,
+    "program": null,
+    "description": "Support for information measures relating to the common agricultural policy (IMCAP)",
+    "period": "2021-2027",
+    "home": false
+  },
+  {
+    "id": "31077833",
+    "abbreviation": "ISFB",
+    "type": null,
+    "program": null,
+    "description": "Internal Security Fund Borders and Visa (ISFB)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "31077817",
+    "abbreviation": "ISFP",
+    "type": null,
+    "program": null,
+    "description": "Internal Security Fund Police (ISFP)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "44416173",
+    "abbreviation": "I3",
+    "type": null,
+    "program": null,
+    "description": "Interregional Innovation Investments Instrument (I3)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "44773066",
+    "abbreviation": "JTM",
+    "type": null,
+    "program": null,
+    "description": "Just Transition Mechanism (JTM)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31070247",
+    "abbreviation": "JUST",
+    "type": null,
+    "program": null,
+    "description": "Justice Programme (JUST)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43252386",
+    "abbreviation": "JUST2027",
+    "type": null,
+    "program": null,
+    "description": "Justice Programme (JUST)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31075571",
+    "abbreviation": "PANAF",
+    "type": null,
+    "program": null,
+    "description": "Intra-Africa Academic Mobility Scheme (PANAF)",
+    "period": "2014-2020",
+    "home": false,
+    "externalProgramPageLink": "https://www.eacea.ec.europa.eu/grants/2014-2020/intra-africa_en"
+  },
+  {
+    "id": "43252433",
+    "abbreviation": "PERI",
+    "type": null,
+    "program": null,
+    "description": "Programme for the Protection of the Euro against Counterfeiting (PERICLES IV)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31084250",
+    "abbreviation": "PPPA",
+    "type": null,
+    "program": null,
+    "description": "Pilot Projects and Preparatory Actions (PPPA)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43637601",
+    "abbreviation": "PPPA2027",
+    "type": null,
+    "program": null,
+    "description": "Pilot Projects and Preparation Actions (PPPA)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31059643",
+    "abbreviation": "COSME",
+    "type": null,
+    "program": null,
+    "description": "Programme for the Competitiveness of Enterprises and small and medium-sized enterprises (COSME)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "31107710",
+    "abbreviation": "LIFE",
+    "type": null,
+    "program": null,
+    "description": "Programme for the Environment and Climate Action (LIFE)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43252405",
+    "abbreviation": "LIFE2027",
+    "type": null,
+    "program": null,
+    "description": "Programme for the Environment and Climate Action (LIFE)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31072773",
+    "abbreviation": "AGRIP",
+    "type": null,
+    "program": null,
+    "description": "Promotion of Agricultural Products (AGRIP)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43298664",
+    "abbreviation": "AGRIP2027",
+    "type": null,
+    "program": null,
+    "description": "Promotion of Agricultural Products (AGRIP)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31061225",
+    "abbreviation": "RFCS",
+    "type": null,
+    "program": null,
+    "description": "Research Fund for Coal & Steel (RFCS)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43252449",
+    "abbreviation": "RFCS2027",
+    "type": null,
+    "program": null,
+    "description": "Research Fund for Coal & Steel (RFCS)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31076817",
+    "abbreviation": "REC",
+    "type": null,
+    "program": null,
+    "description": "Rights, Equality and Citizenship Programme (REC)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "42905358",
+    "abbreviation": "SRSP",
+    "type": null,
+    "program": null,
+    "description": "Structural Reform Support Programme (SRSP)",
+    "period": "2014-2020",
+    "home": false,
+    "externalProgramPageLink": "https://commission.europa.eu/about/departments-and-executive-agencies/structural-reform-support/structural-reform-support-programme-srsp_en"
+  },
+  {
+    "id": "43253706",
+    "abbreviation": "TSI",
+    "type": null,
+    "program": null,
+    "description": "Technical Support Instrument (TSI)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "31082527",
+    "abbreviation": "UCPM",
+    "type": null,
+    "program": null,
+    "description": "Union Civil Protection Mechanism (UCPM)",
+    "period": "2014-2020"
+  },
+  {
+    "id": "43298203",
+    "abbreviation": "UCPM2027",
+    "type": null,
+    "program": null,
+    "description": "Union Civil Protection Mechanism (UCPM)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "10000009",
+    "abbreviation": "FP7",
+    "type": null,
+    "program": null,
+    "description": "Programming Period 2007-2013 (FP7 - CIP)",
+    "period": "2007-2013",
+    "home": false
+  },
+  {
+    "id": "31005240",
+    "abbreviation": "CIP",
+    "type": null,
+    "program": null,
+    "description": "Competitiveness and Innovation Framework Programme (CIP)",
+    "period": "2007-2013",
+    "home": false
+  },
+  {
+    "id": "31114387",
+    "abbreviation": "E02PLUS20",
+    "type": null,
+    "program": null,
+    "description": "The European Union programme for education, training, youth and sport (E02PLUS20)",
+    "period": "2014-2020",
+    "home": false,
+    "externalProgramPageLink": "https://eur-lex.europa.eu/summary/chapter/15.html?expand=1504"
+  },
+  {
+    "id": "43253967",
+    "abbreviation": "RENEWFM",
+    "type": null,
+    "program": null,
+    "description": "Union Renewable Energy Financing Mechanism (RENEWFM)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "44773133",
+    "abbreviation": "IMREG",
+    "type": null,
+    "program": null,
+    "description": "Information Measures for the EU Cohesion policy (IMREG)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "45532249",
+    "abbreviation": "EUBA",
+    "type": null,
+    "program": null,
+    "description": "EU Bodies and Agencies (EUBA)",
+    "period": "2021-2027",
+    "home": false
+  },
+  {
+    "id": "45876777",
+    "abbreviation": "NDICI",
+    "type": null,
+    "program": null,
+    "description": "Neighbourhood, Development and International Cooperation Instrument – Global Europe (NDICI)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "46324255",
+    "abbreviation": "ERDFTA",
+    "type": null,
+    "program": null,
+    "description": "Technical assistance for ERDF, CF and JTF (ERDF-TA)",
+    "period": "2021-2027",
+    "home": true
+  },
+  {
+    "id": "47786028",
+    "abbreviation": "BCS",
+    "type": null,
+    "program": null,
+    "description": "Business and Consumer Surveys Programme (BCS)",
+    "period": "2021-2027",
+    "home": false
+  }
+]

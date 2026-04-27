@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDF Explorer — open dataset over the European Defence Fund (2021-2025).
+# Source: ciubotarubogdan.ro/edf-explorer

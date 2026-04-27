@@ -1,0 +1,20 @@
+# Local dev scripts
+Launch EDF Explorer.py
+livereload.js
+
+# Data pipeline scripts (large / re-creatable outputs)
+pipeline/
+
+# Claude session
+.claude/
+
+# Temp / OS
+.DS_Store
+Thumbs.db
+
+# Reference doc (not part of the application)
+edf_api_reference.md
+
+# Build artefacts — see app/.gitignore for source-level exclusions
+app/node_modules/
+app/dist/

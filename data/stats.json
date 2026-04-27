@@ -1,0 +1,964 @@
+{
+  "totals": {
+    "projects": 283,
+    "companies": 2354,
+    "countries": 28,
+    "total_estimated_cost_eur": 6310439975.11,
+    "total_eu_contribution_eur": 5025899878.31,
+    "continuations_count": 21
+  },
+  "by_program_year": [
+    {
+      "program": "EDF",
+      "year": "2021",
+      "projects": 60,
+      "eu_contribution_eur": 1166334213.47
+    },
+    {
+      "program": "EDF",
+      "year": "2022",
+      "projects": 41,
+      "eu_contribution_eur": 830771175.86
+    },
+    {
+      "program": "EDF",
+      "year": "2023",
+      "projects": 61,
+      "eu_contribution_eur": 1015055422.58
+    },
+    {
+      "program": "EDF",
+      "year": "2024",
+      "projects": 62,
+      "eu_contribution_eur": 982447057.63
+    },
+    {
+      "program": "EDF",
+      "year": "2025",
+      "projects": 59,
+      "eu_contribution_eur": 1031292008.77
+    }
+  ],
+  "by_country_participation": [
+    {
+      "country": "France",
+      "count": 588
+    },
+    {
+      "country": "Italy",
+      "count": 502
+    },
+    {
+      "country": "Germany",
+      "count": 478
+    },
+    {
+      "country": "Spain",
+      "count": 471
+    },
+    {
+      "country": "Greece",
+      "count": 304
+    },
+    {
+      "country": "Netherlands",
+      "count": 205
+    },
+    {
+      "country": "Belgium",
+      "count": 190
+    },
+    {
+      "country": "Sweden",
+      "count": 162
+    },
+    {
+      "country": "Norway",
+      "count": 160
+    },
+    {
+      "country": "Poland",
+      "count": 144
+    },
+    {
+      "country": "Austria",
+      "count": 124
+    },
+    {
+      "country": "Estonia",
+      "count": 105
+    },
+    {
+      "country": "Finland",
+      "count": 101
+    },
+    {
+      "country": "Portugal",
+      "count": 86
+    },
+    {
+      "country": "Cyprus",
+      "count": 84
+    },
+    {
+      "country": "Denmark",
+      "count": 71
+    },
+    {
+      "country": "Lithuania",
+      "count": 61
+    },
+    {
+      "country": "Romania",
+      "count": 59
+    },
+    {
+      "country": "Czechia",
+      "count": 57
+    },
+    {
+      "country": "Bulgaria",
+      "count": 48
+    },
+    {
+      "country": "Slovenia",
+      "count": 43
+    },
+    {
+      "country": "Luxembourg",
+      "count": 41
+    },
+    {
+      "country": "Latvia",
+      "count": 32
+    },
+    {
+      "country": "Ireland",
+      "count": 26
+    },
+    {
+      "country": "Hungary",
+      "count": 21
+    },
+    {
+      "country": "Croatia",
+      "count": 18
+    },
+    {
+      "country": "Slovakia",
+      "count": 13
+    },
+    {
+      "country": "Unknown",
+      "count": 1
+    }
+  ],
+  "by_country_coordinator": [
+    {
+      "country": "France",
+      "count": 69
+    },
+    {
+      "country": "Spain",
+      "count": 47
+    },
+    {
+      "country": "Italy",
+      "count": 30
+    },
+    {
+      "country": "Greece",
+      "count": 26
+    },
+    {
+      "country": "Germany",
+      "count": 23
+    },
+    {
+      "country": "Austria",
+      "count": 9
+    },
+    {
+      "country": "Estonia",
+      "count": 9
+    },
+    {
+      "country": "Sweden",
+      "count": 8
+    },
+    {
+      "country": "Denmark",
+      "count": 7
+    },
+    {
+      "country": "Netherlands",
+      "count": 6
+    },
+    {
+      "country": "Norway",
+      "count": 6
+    },
+    {
+      "country": "Cyprus",
+      "count": 6
+    },
+    {
+      "country": "Slovenia",
+      "count": 5
+    },
+    {
+      "country": "Czechia",
+      "count": 5
+    },
+    {
+      "country": "Belgium",
+      "count": 5
+    },
+    {
+      "country": "Finland",
+      "count": 4
+    },
+    {
+      "country": "Romania",
+      "count": 4
+    },
+    {
+      "country": "Poland",
+      "count": 3
+    },
+    {
+      "country": "Latvia",
+      "count": 3
+    },
+    {
+      "country": "Bulgaria",
+      "count": 2
+    },
+    {
+      "country": "Lithuania",
+      "count": 2
+    },
+    {
+      "country": "Ireland",
+      "count": 2
+    },
+    {
+      "country": "Portugal",
+      "count": 2
+    },
+    {
+      "country": "Slovakia",
+      "count": 1
+    }
+  ],
+  "by_category": [
+    {
+      "category": "Selected Projects",
+      "count": 61,
+      "eu_contribution_eur": 1015055422.58
+    },
+    {
+      "category": "Non- thematic calls for innovative and future-oriented defence solutions focused on SMEs",
+      "count": 31,
+      "eu_contribution_eur": 134757719.33
+    },
+    {
+      "category": "Open SME calls - Innovative and future-oriented defence solutions",
+      "count": 30,
+      "eu_contribution_eur": 104736448.55
+    },
+    {
+      "category": "Disruptive Technologies",
+      "count": 14,
+      "eu_contribution_eur": 110978546.31
+    },
+    {
+      "category": "Information Superiority",
+      "count": 9,
+      "eu_contribution_eur": 229853895.82
+    },
+    {
+      "category": "Ground Combat",
+      "count": 9,
+      "eu_contribution_eur": 332124977.41
+    },
+    {
+      "category": "Technological challenges",
+      "count": 9,
+      "eu_contribution_eur": 51594504.13
+    },
+    {
+      "category": "Cyber",
+      "count": 7,
+      "eu_contribution_eur": 155782760.65
+    },
+    {
+      "category": "Medical Response and CBRN",
+      "count": 7,
+      "eu_contribution_eur": 107491307.03
+    },
+    {
+      "category": "Air Combat",
+      "count": 7,
+      "eu_contribution_eur": 417386777.14
+    },
+    {
+      "category": "Digital Transformation",
+      "count": 6,
+      "eu_contribution_eur": 111643166.61
+    },
+    {
+      "category": "Space",
+      "count": 6,
+      "eu_contribution_eur": 223041160.37
+    },
+    {
+      "category": "Disruptive technologies",
+      "count": 6,
+      "eu_contribution_eur": 41337554.58
+    },
+    {
+      "category": "Materials and Components",
+      "count": 5,
+      "eu_contribution_eur": 101836498.88
+    },
+    {
+      "category": "Naval",
+      "count": 5,
+      "eu_contribution_eur": 233499998.74
+    },
+    {
+      "category": "Sensors",
+      "count": 4,
+      "eu_contribution_eur": 77942647.48
+    },
+    {
+      "category": "Energy and Environment",
+      "count": 4,
+      "eu_contribution_eur": 102167913.49
+    },
+    {
+      "category": "Simulation and Training",
+      "count": 3,
+      "eu_contribution_eur": 54555270.75
+    },
+    {
+      "category": "Underwater Warfare",
+      "count": 3,
+      "eu_contribution_eur": 76782151.61
+    },
+    {
+      "category": "Disruptive Technologies - Quantum",
+      "count": 3,
+      "eu_contribution_eur": 23005325.6
+    },
+    {
+      "category": "Defence medical support, CBRN, biotech and human factors",
+      "count": 3,
+      "eu_contribution_eur": 34997217.78
+    },
+    {
+      "category": "Protection and Mobility",
+      "count": 2,
+      "eu_contribution_eur": 49099336.15
+    },
+    {
+      "category": "Force Protection and Mobility",
+      "count": 2,
+      "eu_contribution_eur": 60000000.0
+    },
+    {
+      "category": "Simulation and training",
+      "count": 2,
+      "eu_contribution_eur": 42997191.63
+    },
+    {
+      "category": "Underwater warfare",
+      "count": 2,
+      "eu_contribution_eur": 44994719.97
+    },
+    {
+      "category": "Air and Missile Defence",
+      "count": 1,
+      "eu_contribution_eur": 99988962.68
+    },
+    {
+      "category": "National Focal Points",
+      "count": 1,
+      "eu_contribution_eur": 0.0
+    },
+    {
+      "category": "Air and Air Missile",
+      "count": 1,
+      "eu_contribution_eur": 34940299.21
+    },
+    {
+      "category": "Naval Combat",
+      "count": 1,
+      "eu_contribution_eur": 45000000.0
+    },
+    {
+      "category": "Advanced passive and active sensors",
+      "count": 1,
+      "eu_contribution_eur": 34971644.47
+    },
+    {
+      "category": "Energy resilience and environmental transition",
+      "count": 1,
+      "eu_contribution_eur": 39870770.75
+    },
+    {
+      "category": "Force protection and mobility",
+      "count": 1,
+      "eu_contribution_eur": 34985763.9
+    },
+    {
+      "category": "Information superiority",
+      "count": 1,
+      "eu_contribution_eur": 38999958.7
+    },
+    {
+      "category": "Digital transformation",
+      "count": 1,
+      "eu_contribution_eur": 6999978.06
+    },
+    {
+      "category": "Naval combat",
+      "count": 1,
+      "eu_contribution_eur": 54000000.0
+    },
+    {
+      "category": "CSA for EDF NFP network",
+      "count": 1,
+      "eu_contribution_eur": 1990992.0
+    }
+  ],
+  "budget_by_year": [
+    {
+      "year": "2021",
+      "eu_contribution_eur": 1166334213.47
+    },
+    {
+      "year": "2022",
+      "eu_contribution_eur": 830771175.86
+    },
+    {
+      "year": "2023",
+      "eu_contribution_eur": 1015055422.58
+    },
+    {
+      "year": "2024",
+      "eu_contribution_eur": 982447057.63
+    },
+    {
+      "year": "2025",
+      "eu_contribution_eur": 1031292008.77
+    }
+  ],
+  "consortium_size_distribution": [
+    {
+      "label": "1-5",
+      "count": 46
+    },
+    {
+      "label": "6-10",
+      "count": 89
+    },
+    {
+      "label": "11-20",
+      "count": 79
+    },
+    {
+      "label": "21-30",
+      "count": 44
+    },
+    {
+      "label": "31-50",
+      "count": 24
+    },
+    {
+      "label": "51-100",
+      "count": 1
+    }
+  ],
+  "duration_distribution": [
+    {
+      "label": "1-12",
+      "count": 0
+    },
+    {
+      "label": "13-24",
+      "count": 20
+    },
+    {
+      "label": "25-36",
+      "count": 139
+    },
+    {
+      "label": "37-48",
+      "count": 77
+    },
+    {
+      "label": "49-60",
+      "count": 7
+    },
+    {
+      "label": "61-120",
+      "count": 0
+    }
+  ],
+  "top_companies": [
+    {
+      "id": "indra-sistemas",
+      "name": "INDRA SISTEMAS SA",
+      "participations": 55
+    },
+    {
+      "id": "leonardo-societa-per-azioni",
+      "name": "LEONARDO -SOCIETA PER AZIONI",
+      "participations": 44
+    },
+    {
+      "id": "airbus-defence-and-space",
+      "name": "AIRBUS DEFENCE AND SPACE SA",
+      "participations": 44
+    },
+    {
+      "id": "ait-austrian-institute-of-technology",
+      "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+      "participations": 35
+    },
+    {
+      "id": "thales-six-gts-france",
+      "name": "THALES SIX GTS France SAS",
+      "participations": 33
+    },
+    {
+      "id": "nederlandse-organisatie-voor-toegepast",
+      "name": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST",
+      "participations": 28
+    },
+    {
+      "id": "fraunhofer-gesellschaft-zur-forderung-der",
+      "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER",
+      "participations": 28
+    },
+    {
+      "id": "elettronica",
+      "name": "ELETTRONICA SPA",
+      "participations": 26
+    },
+    {
+      "id": "safran-electronics-defense",
+      "name": "SAFRAN ELECTRONICS & DEFENSE",
+      "participations": 25
+    },
+    {
+      "id": "baltijos-pazangiu-technologiju-institutas",
+      "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
+      "participations": 25
+    },
+    {
+      "id": "saab-aktiebolag",
+      "name": "SAAB Aktiebolag",
+      "participations": 24
+    },
+    {
+      "id": "cafa-tech",
+      "name": "CAFA TECH OU",
+      "participations": 21
+    },
+    {
+      "id": "forsvarets-forskninginstitutt",
+      "name": "FORSVARETS FORSKNINGINSTITUTT",
+      "participations": 19
+    },
+    {
+      "id": "sener-aeroespacial-sociedad-anonima",
+      "name": "SENER AEROESPACIAL SOCIEDAD ANONIMA",
+      "participations": 19
+    },
+    {
+      "id": "kongsberg-defence-aerospace",
+      "name": "Kongsberg Defence & Aerospace AS",
+      "participations": 19
+    },
+    {
+      "id": "leonardo",
+      "name": "LEONARDO S.p.A.",
+      "participations": 18
+    },
+    {
+      "id": "naval-group",
+      "name": "Naval Group SA",
+      "participations": 18
+    },
+    {
+      "id": "thales-las-france",
+      "name": "THALES LAS FRANCE",
+      "participations": 18
+    },
+    {
+      "id": "rheinmetall-electronics",
+      "name": "RHEINMETALL ELECTRONICS GMBH",
+      "participations": 17
+    },
+    {
+      "id": "mbda-italia",
+      "name": "MBDA ITALIA SPA",
+      "participations": 17
+    },
+    {
+      "id": "gmv-aerospace-and-defence",
+      "name": "GMV AEROSPACE AND DEFENCE SA",
+      "participations": 16
+    },
+    {
+      "id": "totalforsvarets-forskningsinstitut",
+      "name": "TOTALFORSVARETS FORSKNINGSINSTITUT",
+      "participations": 16
+    },
+    {
+      "id": "thales-dms-france",
+      "name": "THALES DMS FRANCE SAS",
+      "participations": 14
+    },
+    {
+      "id": "mbda-france",
+      "name": "MBDA France",
+      "participations": 14
+    },
+    {
+      "id": "stam",
+      "name": "STAM SRL",
+      "participations": 14
+    },
+    {
+      "id": "hensoldt-sensors",
+      "name": "HENSOLDT SENSORS GMBH",
+      "participations": 13
+    },
+    {
+      "id": "fincantieri",
+      "name": "Fincantieri S.p.A",
+      "participations": 13
+    },
+    {
+      "id": "isd-lyseis-olokriromenon-systimatonanonymos",
+      "name": "ISD LYSEIS OLOKRIROMENON SYSTIMATONANONYMOS",
+      "participations": 13
+    },
+    {
+      "id": "stichting-koninklijk-nederlands-lucht-en",
+      "name": "STICHTING KONINKLIJK NEDERLANDS LUCHT -EN",
+      "participations": 13
+    },
+    {
+      "id": "ethniko-kentro-erevnas-kai-technologikis-anaptyxis",
+      "name": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+      "participations": 12
+    },
+    {
+      "id": "universidad-politecnica-de-madrid",
+      "name": "UNIVERSIDAD POLITECNICA DE MADRID",
+      "participations": 12
+    },
+    {
+      "id": "teknologian-tutkimuskeskus-vtt",
+      "name": "TEKNOLOGIAN TUTKIMUSKESKUS VTT OY",
+      "participations": 12
+    },
+    {
+      "id": "navantia-s-a",
+      "name": "NAVANTIA S.A.",
+      "participations": 12
+    },
+    {
+      "id": "thales",
+      "name": "THALES",
+      "participations": 11
+    },
+    {
+      "id": "centre-national-de-la-recherche-scientifique-cnrs",
+      "name": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+      "participations": 11
+    },
+    {
+      "id": "diehl-defence-gmbh-co-kg",
+      "name": "DIEHL DEFENCE GMBH & CO. KG",
+      "participations": 11
+    },
+    {
+      "id": "politecnico-di-milano",
+      "name": "POLITECNICO DI MILANO",
+      "participations": 11
+    },
+    {
+      "id": "signalgenerix",
+      "name": "SIGNALGENERIX LIMITED",
+      "participations": 11
+    },
+    {
+      "id": "thales-avs-france",
+      "name": "THALES AVS FRANCE",
+      "participations": 11
+    },
+    {
+      "id": "ecole-royale-militaire-koninklijke-militaire-school",
+      "name": "ECOLE ROYALE MILITAIRE -KONINKLIJKE MILITAIRE SCHOOL",
+      "participations": 11
+    },
+    {
+      "id": "commissariat-a-l-energie-atomique-et-aux-energies",
+      "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES",
+      "participations": 11
+    },
+    {
+      "id": "flysight",
+      "name": "FLYSIGHT SRL",
+      "participations": 10
+    },
+    {
+      "id": "aalborg-universitet",
+      "name": "AALBORG UNIVERSITET",
+      "participations": 10
+    },
+    {
+      "id": "cybernetica",
+      "name": "CYBERNETICA AS",
+      "participations": 10
+    },
+    {
+      "id": "deutsches-zentrum-fur-luft-und-raumfahrt",
+      "name": "DEUTSCHES ZENTRUM FUR LUFT -UND RAUMFAHRT EV",
+      "participations": 10
+    },
+    {
+      "id": "fraunhofer-gesellschaft-zur-forderung-der-angewandten-forschung",
+      "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
+      "participations": 10
+    },
+    {
+      "id": "latvijas-mobilais-telefons-sia",
+      "name": "LATVIJAS MOBILAIS TELEFONS SIA",
+      "participations": 9
+    },
+    {
+      "id": "sintef",
+      "name": "SINTEF AS",
+      "participations": 9
+    },
+    {
+      "id": "nederlandse-organisatie-voor-toegepast-natuurwetenschappelijk-onderzoek-tno",
+      "name": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+      "participations": 9
+    },
+    {
+      "id": "thales-nederland",
+      "name": "THALES NEDERLAND BV",
+      "participations": 9
+    }
+  ],
+  "top_coordinators": [
+    {
+      "name": "INDRA SISTEMAS SA",
+      "led_projects": 7
+    },
+    {
+      "name": "THALES SIX GTS FRANCE SAS",
+      "led_projects": 6
+    },
+    {
+      "name": "THALES",
+      "led_projects": 4
+    },
+    {
+      "name": "LEONARDO -SOCIETA PER AZIONI",
+      "led_projects": 4
+    },
+    {
+      "name": "INTEGRASYS SA",
+      "led_projects": 4
+    },
+    {
+      "name": "MBDA FRANCE",
+      "led_projects": 3
+    },
+    {
+      "name": "TEKNOLOGISK INSTITUT",
+      "led_projects": 3
+    },
+    {
+      "name": "Airbus Defenceand Space SAS",
+      "led_projects": 3
+    },
+    {
+      "name": "AIRBUS DEFENCE AND SPACE SAS",
+      "led_projects": 3
+    },
+    {
+      "name": "NAVANTIA S.A.",
+      "led_projects": 3
+    },
+    {
+      "name": "GMV AEROSPACE AND DEFENCE SA",
+      "led_projects": 3
+    },
+    {
+      "name": "IKNOWHOW SA",
+      "led_projects": 3
+    },
+    {
+      "name": "SAFRAN ELECTRONICS & DEFENSE",
+      "led_projects": 2
+    },
+    {
+      "name": "SENER AEROESPACIAL SOCIEDAD ANONIMA",
+      "led_projects": 2
+    },
+    {
+      "name": "DASSAULT AVIATION",
+      "led_projects": 2
+    },
+    {
+      "name": "THALES AVS FRANCE SAS",
+      "led_projects": 2
+    },
+    {
+      "name": "LYNRED",
+      "led_projects": 2
+    },
+    {
+      "name": "GE AVIO SRL",
+      "led_projects": 2
+    },
+    {
+      "name": "SINTEF AS",
+      "led_projects": 2
+    },
+    {
+      "name": "THALES LAS FRANCE SAS",
+      "led_projects": 2
+    },
+    {
+      "name": "INTRACOM DEFENSE AE",
+      "led_projects": 2
+    },
+    {
+      "name": "SIHTASUTUS CR14",
+      "led_projects": 2
+    },
+    {
+      "name": "IVECO DEFENCE VEHICLES SPA",
+      "led_projects": 2
+    },
+    {
+      "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+      "led_projects": 2
+    },
+    {
+      "name": "HIT09 SRL",
+      "led_projects": 2
+    },
+    {
+      "name": "SAAB AKTIEBOLAG",
+      "led_projects": 2
+    },
+    {
+      "name": "FORSVARETS FORSKNINGINSTITUTT",
+      "led_projects": 2
+    },
+    {
+      "name": "ALTERNATIVES AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+      "led_projects": 2
+    },
+    {
+      "name": "SATWAYS-OLOKLIROMENES LYSEIS ASFALEIAS KAI AMYNAS-IDIOTIKI EPICHEIRISI PAROCHIS YPIRESION ASFALEIAS",
+      "led_projects": 2
+    },
+    {
+      "name": "COMMISSARIAT A L'ENERGIE ATOMIQUE ET AUX",
+      "led_projects": 2
+    },
+    {
+      "name": "TKMS ATLAS ELEKTRONIK GMBH",
+      "led_projects": 2
+    },
+    {
+      "name": "SAAB AB",
+      "led_projects": 1
+    },
+    {
+      "name": "GUARDIARIS DOO",
+      "led_projects": 1
+    },
+    {
+      "name": "INSTITUT PO OTBRANA",
+      "led_projects": 1
+    },
+    {
+      "name": "UNITED MONOLITHIC SEMICONDUCTORS GMBH",
+      "led_projects": 1
+    },
+    {
+      "name": "SPACE HELLAS ANONYMI ETAIREIA",
+      "led_projects": 1
+    },
+    {
+      "name": "VOCAPIA",
+      "led_projects": 1
+    },
+    {
+      "name": "MAGELLIUM SAS",
+      "led_projects": 1
+    },
+    {
+      "name": "AKTYVUS PHOTONICS",
+      "led_projects": 1
+    },
+    {
+      "name": "LEONARDO S.p.A.",
+      "led_projects": 1
+    },
+    {
+      "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+      "led_projects": 1
+    },
+    {
+      "name": "AMIRES SRO",
+      "led_projects": 1
+    },
+    {
+      "name": "NAVANTIA, S.A., S.M.E",
+      "led_projects": 1
+    },
+    {
+      "name": "AIRBUS DEFENCE AND SPACE GMBH",
+      "led_projects": 1
+    },
+    {
+      "name": "AIRBUS HELICOPTERS SAS",
+      "led_projects": 1
+    },
+    {
+      "name": "UNIVERSIDAD DE ZARAGOZA",
+      "led_projects": 1
+    },
+    {
+      "name": "NAVIRIS ITALY",
+      "led_projects": 1
+    },
+    {
+      "name": "STE Engineering iDirect Europe",
+      "led_projects": 1
+    },
+    {
+      "name": "INDRA SISTEMAS, S.A.",
+      "led_projects": 1
+    },
+    {
+      "name": "Thales Alenia Space France",
+      "led_projects": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-04-24T04:38:54.126755+00:00",
+  "source": "EC Funding & Tenders Portal — Search API + Org Profile API + EDF 2025 manual PDF supplement",
+  "program_id": "44181033",
+  "projects_count": 309,
+  "companies_count": 1548,
+  "org_profile_failures": [
+    "880806561",
+    "999997930"
+  ],
+  "api_endpoints": {
+    "search": "https://api.tech.ec.europa.eu/search-api/prod/rest/search",
+    "org_profile": "https://ec.europa.eu/info/funding-tenders/opportunities/api/orgProfile/data.json?pic={pic}"
+  }
+}
